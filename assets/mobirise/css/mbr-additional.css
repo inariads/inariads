@@ -1980,32 +1980,22 @@ body {
 .cid-ri9UeyDleQ .mbr-section-btn {
   color: #ffffff;
 }
-.cid-ri9Vk7inhm {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rjp5N3MQFE {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #f05d5c;
 }
-.cid-ri9Vk7inhm .testimonial-text {
-  font-style: italic;
-  color: #020000;
-  font-weight: 300;
-}
-.cid-ri9Vk7inhm .mbr-author-name {
-  font-weight: bold;
-  color: #020000;
-}
-.cid-ri9Vk7inhm .mbr-author-desc {
-  color: #292929;
-}
-@media (max-width: 991px) {
-  .cid-ri9Vk7inhm .mbr-figure,
-  .cid-ri9Vk7inhm img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
+@media (min-width: 992px) {
+  .cid-rjp5N3MQFE .mbr-figure {
+    padding-left: 4rem;
   }
 }
-.cid-ri9Vk7inhm .mbr-author-name SPAN {
+@media (max-width: 992px) {
+  .cid-rjp5N3MQFE .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rjp5N3MQFE .mbr-text {
   color: #ffffff;
 }
 .cid-rhZuW6NCAX .navbar {
